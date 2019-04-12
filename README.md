@@ -10,3 +10,8 @@ How to run tests?
 Go to terminal and run this command:
     
     npm test
+
+How to open allure report?
+run this command:
+
+    allure generate
